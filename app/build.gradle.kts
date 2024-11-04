@@ -51,4 +51,7 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2")
     implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.6.2")
 
+    // smart reply versi bundle
+    implementation("com.google.mlkit:smart-reply:17.0.2")
+
 }
