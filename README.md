@@ -9,9 +9,11 @@
 - **Dynamic Interaction**: Live chat experience with real-time smart replies.
 
 ## Screenshots
-![Gambar WhatsApp 2024-12-29 pukul 13 34 06_e5c2ef80](https://github.com/user-attachments/assets/9bf5625f-6db9-433b-9d9a-e67532687818)
-![Gambar WhatsApp 2024-12-29 pukul 13 34 05_6f42f5b1](https://github.com/user-attachments/assets/e87182fb-1e98-4597-8a36-58882285e131)
-![Gambar WhatsApp 2024-12-29 pukul 13 34 45_728e240a](https://github.com/user-attachments/assets/caa2451b-e231-4b22-b92b-8e94a4be7e53)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9bf5625f-6db9-433b-9d9a-e67532687818" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/e87182fb-1e98-4597-8a36-58882285e131" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/caa2451b-e231-4b22-b92b-8e94a4be7e53" alt="Screenshot 3" width="200"/>
+</p>
 
 ## Getting Started
 
